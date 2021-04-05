@@ -1,7 +1,13 @@
-# Javascript-project-1
-- Source code in <img alt="Github" title="GitHub" height="32" width="32" src="https://mpng.subpng.com/20180605/zry/kisspng-fynydd-llc-logo-github-organization-andrew-scott-5b16e57c5a0c08.6997461415282271963688.jpg" >
-- ----
-- Source code in ![Github](github.png)(https://github.com/teemunasanen?tab=repositories)
+# Projekti 3: REST API
+Web developing with MERN-stack 2021
+- 5+ routes, JSON , handle errors.
+- API DB queries with Mongoose.
+- Test with [POSTMAN](https://www.postman.com/) or [CURL](https://curl.se/)
+- Publish in [Heroku](https://www.heroku.com/), [Vercel](https://vercel.com/) or similar.
+- Source code in <a href="https://github.com/teemunasanen?tab=repositories"><img alt="Github" title="GitHub" height="32" width="32" src="github-11-24.png"></a>
+- Comment your code❗
+- Provide README in the repository with URL:s and other info 🤩
 ----
-
- Source code in <a href="https://github.com/teemunasanen?tab=repositories"><img alt="Github" title="GitHub" height="32" width="32" src="github-11-24.png" fill="yellow"></a>
+## Teemu Näsänen
+[Laurea University of Applied Sciences](https://www.laurea.fi/en/)
+## Project environment in 
