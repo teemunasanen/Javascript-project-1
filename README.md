@@ -8,6 +8,7 @@ Web developing with MERN-stack 2021
 - Comment your code❗
 - Provide README in the repository with URL:s and other info 🤩
 ----
-## Teemu Näsänen
+Teemu Näsänen
 [Laurea University of Applied Sciences](https://www.laurea.fi/en/)
+----
 ## Project environment in 
