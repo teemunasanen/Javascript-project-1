@@ -1,6 +1,6 @@
 # JavaScript course
 
-Small task list project
+Small to-do list project
 https://wonderful-carson-016286.netlify.app/
 
 
